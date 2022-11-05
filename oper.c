@@ -1,0 +1,14 @@
+( openpara 
+) closepara
+{ openbrace
+} closebrace
+< lesser
+> greater
+# preprocessor
+= assignment
++ addition
+" doublequote
+' singlequote
+& ampersand
+, specialsymbol
+; specialsymbol
